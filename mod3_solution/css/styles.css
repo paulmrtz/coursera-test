@@ -8,10 +8,6 @@
   line-height: .75;
 }
 
-.header > h2 {
-	text-align: center;
-}
-
 .row-element {
 	background-color: #264d73;
 	color: #ffffff;
@@ -24,11 +20,6 @@
 
 #nav-list a {
 	color: #ffffff;
-	text-align: center;
-}
-
-#page-heading {
-	text-align: center;
 }
 
 #header-nav {
